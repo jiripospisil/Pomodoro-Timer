@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+OpenIDE-Module: info.jiripospisil.pomodoro
+OpenIDE-Module-Layer: info/jiripospisil/pomodoro/layer.xml
+OpenIDE-Module-Localizing-Bundle: info/jiripospisil/pomodoro/Bundle.properties
+OpenIDE-Module-Specification-Version: 1.0
+
