@@ -1,3 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE filesystem PUBLIC "-//NetBeans//DTD Filesystem 1.2//EN" "http://www.netbeans.org/dtds/filesystem-1_2.dtd">
-<filesystem/>
+<filesystem>
+    <folder name="Actions">
+        <folder name="Tools">
+            <file name="info-jiripospisil-pomodoro-actions-PomodoroAction.instance">
+                <attr name="delegate" newvalue="info.jiripospisil.pomodoro.actions.PomodoroAction"/>
+                <attr name="displayName" stringvalue="Pomodoro"/>
+                <attr name="iconBase" stringvalue="info/jiripospisil/pomodoro/resources/icon.gif"/>
+                <attr name="noIconInMenu" stringvalue="false"/>
+            </file>
+        </folder>
+    </folder>
+    <folder name="Toolbars">
+        <folder name="Tools">
+            <file name="info-jiripospisil-pomodoro-actions-PomodoroAction.shadow">
+                <attr name="originalFile" stringvalue="Actions/Tools/info-jiripospisil-pomodoro-actions-PomodoroAction.instance"/>
+                <attr name="position" intvalue="140"/>
+            </file>
+        </folder>
+    </folder>
+</filesystem>
