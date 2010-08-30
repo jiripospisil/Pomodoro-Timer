@@ -1,7 +1,7 @@
 Pomodoro Timer
 ==============
 
-A simple Pomodoro timer inside NetBeans.
+A simple Pomodoro timer inside the NetBeans IDE. You can find more info about Pomodoro Technique on [the official site](http://www.pomodorotechnique.com). 
 
 Installation
 ------------
