@@ -1,3 +1,13 @@
+/*
+ * Pomodoro Timer
+ *
+ * Copyright (c) 2010 Jiri Pospisil (jiripospisil.info)
+ *
+ * This software is licensed under the New BSD License. See
+ * license.txt in the root directory of this software package
+ * for more details.
+ *
+ */
 package info.jiripospisil.pomodoro.ui;
 
 import java.awt.event.ActionEvent;
@@ -8,9 +18,13 @@ import javax.swing.Timer;
 import org.openide.util.ImageUtilities;
 import org.openide.util.NbBundle;
 
+/**
+ *
+ * @author Jiri Pospisil <mekishizufu@gmail.com>
+ */
 public class PomodoroPanelBack {
 
-    private static final int TIME_LIMIT = 20;
+    private static final int TIME_LIMIT = 60 * 25;
     private final PomodoroPanel panel;
     private final Timer timer;
     private boolean isRunning;

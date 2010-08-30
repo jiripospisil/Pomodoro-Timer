@@ -1,9 +1,23 @@
+/*
+ * Pomodoro Timer
+ *
+ * Copyright (c) 2010 Jiri Pospisil (jiripospisil.info)
+ *
+ * This software is licensed under the New BSD License. See
+ * license.txt in the root directory of this software package
+ * for more details.
+ *
+ */
 package info.jiripospisil.pomodoro.ui;
 
 import java.awt.event.ActionListener;
 import javax.swing.JButton;
 import javax.swing.JPanel;
 
+/**
+ *
+ * @author Jiri Pospisil <mekishizufu@gmail.com>
+ */
 public class PomodoroPanel extends JPanel {
 
     public PomodoroPanel() {
